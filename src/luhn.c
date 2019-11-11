@@ -5,6 +5,8 @@
 ** luhn.c
 */
 
+#include "../include/prototypes.h"
+
 int luhn_check(char *nbr)
 {
     int total_unpair_d = 0;

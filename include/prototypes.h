@@ -7,3 +7,4 @@
 
 int cti(char c);
 char itc(int i);
+int luhn_check(char *nbr);
