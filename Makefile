@@ -7,3 +7,6 @@
 
 all:
 	gcc src/*.c -o luhn
+
+
+.PHONY: all
